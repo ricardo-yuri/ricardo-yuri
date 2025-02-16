@@ -29,6 +29,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ricardo-yuri/ricardo-yuri/output/snake.svg" alt="Snake animation" />
-
 ###
